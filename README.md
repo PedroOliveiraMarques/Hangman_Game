@@ -1,4 +1,4 @@
-# Jogo da Forca (Hangman)
+# Jogo da Forca (Hangman Game)
 
 Este projeto foi desenvolvido com o objetivo de criar um jogo da forca simples e interativo em Python, utilizando conceitos de Programação Orientada a Objetos.
 
@@ -29,12 +29,11 @@ Este projeto foi desenvolvido com o objetivo de criar um jogo da forca simples e
 1.  Certifique-se de ter o [Python](https://www.python.org/downloads/) instalado em sua máquina.
 2.  Clone este repositório para o seu ambiente local:
     ```bash
-    git clone [https://github.com/SeuUsuario/NomeDoSeuRepositorio.git](https://github.com/SeuUsuario/NomeDoSeuRepositorio.git)
+    git clone [https://github.com/PedroOliveiraMarques/Hangman_Game.git](https://github.com/PedroOliveiraMarques/Hangman_Game.git)
     ```
-    *(Substitua `SeuUsuario/NomeDoSeuRepositorio` pelo caminho correto do seu repositório no GitHub)*
 3.  Navegue até o diretório do projeto:
     ```bash
-    cd NomeDoSeuRepositorio
+    cd Hangman_Game
     ```
 4.  Execute o jogo:
     ```bash
